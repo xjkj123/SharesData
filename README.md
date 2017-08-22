@@ -1,4 +1,5 @@
 # SharesData
+版本1.0.0
 ### 基于A股市场的数据获取拓展包
 ##### 量化公众号分享量化工具
 ![](https://github.com/xjkj123/SharesData/blob/master/qrcode.jpeg)
@@ -90,7 +91,4 @@ ShareClass().GetLrb("600000")#参数code为股票代码，两市上市股
 
 ```
 
-
-
-# 未完请关注公众号
-
+# 未完待续
