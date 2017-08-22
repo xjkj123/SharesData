@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ShareData.py" line="173" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/main.py" line="60" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1985134-d7dc-4248-9351-194c3a258d1b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SharesData$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1500970103459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$ShareData.coverage" NAME="ShareData Coverage Results" MODIFIED="1502249595931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$arrange.coverage" NAME="arrange Coverage Results" MODIFIED="1500432740634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$config.coverage" NAME="config Coverage Results" MODIFIED="1502181324527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$main.coverage" NAME="main Coverage Results" MODIFIED="1503366527083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1502250058233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/jjx" />
+    <SUITE FILE_PATH="coverage/SharesData$play.coverage" NAME="play Coverage Results" MODIFIED="1500260224883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1501139428297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../influx-holtwinters-master" />
+    <SUITE FILE_PATH="coverage/untitled$.coverage" NAME="ｔ Coverage Results" MODIFIED="1499234986459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$holtwinters.coverage" NAME="holtwinters Coverage Results" MODIFIED="1501131459659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../holtwinters-forecasting-master" />
+    <SUITE FILE_PATH="coverage/untitled$main.coverage" NAME="main Coverage Results" MODIFIED="1499923245881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$progress.coverage" NAME="progress Coverage Results" MODIFIED="1500272074442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$1.coverage" NAME="1 Coverage Results" MODIFIED="1499994164882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Q.coverage" NAME="Q Coverage Results" MODIFIED="1499236912665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$tt.coverage" NAME="tt Coverage Results" MODIFIED="1499993378614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$ep.coverage" NAME="ep Coverage Results" MODIFIED="1499243723678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$ez_setup.coverage" NAME="ez_setup Coverage Results" MODIFIED="1500520582620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SharesData$test.coverage" NAME="test Coverage Results" MODIFIED="1502246514084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ShareData.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ShareData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="379" column="17" lean-forward="true" selection-start-line="379" selection-start-column="17" selection-end-line="379" selection-end-column="17" />
+              <folding>
+                <element signature="e#24#87#0" expanded="true" />
+                <element signature="e#289#302#0" expanded="false" />
+                <element signature="e#341#580#0" expanded="false" />
+                <element signature="e#625#852#0" expanded="false" />
+                <element signature="e#889#1063#0" expanded="false" />
+                <element signature="e#1099#1166#0" expanded="false" />
+                <element signature="e#1246#1685#0" expanded="false" />
+                <element signature="e#1743#1781#0" expanded="false" />
+                <element signature="e#1839#2150#0" expanded="false" />
+                <element signature="e#2203#2216#0" expanded="false" />
+                <element signature="e#2303#4581#0" expanded="false" />
+                <element signature="e#4629#9094#0" expanded="false" />
+                <element signature="e#5236#5330#0" expanded="false" />
+                <element signature="e#5409#5517#0" expanded="false" />
+                <element signature="e#5595#5700#0" expanded="false" />
+                <element signature="e#5780#5891#0" expanded="false" />
+                <element signature="e#5972#6086#0" expanded="false" />
+                <element signature="e#6166#6277#0" expanded="false" />
+                <element signature="e#6357#6468#0" expanded="false" />
+                <element signature="e#6546#6651#0" expanded="false" />
+                <element signature="e#6731#6842#0" expanded="false" />
+                <element signature="e#6922#7033#0" expanded="false" />
+                <element signature="e#7111#7216#0" expanded="false" />
+                <element signature="e#7293#9014#0" expanded="false" />
+                <element signature="e#9138#9463#0" expanded="false" />
+                <element signature="e#9503#9831#0" expanded="false" />
+                <element signature="e#9875#10284#0" expanded="false" />
+                <element signature="e#10326#11710#0" expanded="false" />
+                <element signature="e#11752#13246#0" expanded="false" />
+                <element signature="e#13286#16033#0" expanded="false" />
+                <element signature="e#16071#19840#0" expanded="false" />
+                <element signature="e#19870#20286#0" expanded="false" />
+                <element signature="e#20348#20842#0" expanded="false" />
+                <element signature="e#20871#22148#0" expanded="false" />
+                <element signature="e#22177#22878#0" expanded="false" />
+                <element signature="e#22908#23092#0" expanded="false" />
+                <element signature="e#23122#23751#0" expanded="false" />
+                <element signature="e#23780#28142#0" expanded="false" />
+                <element signature="e#28172#29438#0" expanded="false" />
+                <element signature="e#29468#30209#0" expanded="false" />
+                <element signature="e#30238#30827#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="64" column="42" lean-forward="true" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+              <folding>
+                <element signature="e#24#40#0" expanded="true" />
+                <element signature="e#113#499#0" expanded="false" />
+                <element signature="e#523#1048#0" expanded="false" />
+                <element signature="e#1067#1738#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrange.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>sz</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\lenovo\PycharmProjects\untitled</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ｔｅｓｔ.py" />
+        <option value="$PROJECT_DIR$/ｔ.py" />
+        <option value="$PROJECT_DIR$/Q.py" />
+        <option value="$PROJECT_DIR$/ep.py" />
+        <option value="$PROJECT_DIR$/Share.py" />
+        <option value="$PROJECT_DIR$/tt.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/play.py" />
+        <option value="$PROJECT_DIR$/progress.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled1/11.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/xwk245776832/Files/ShareData.py" />
+        <option value="$PROJECT_DIR$/arrange.py" />
+        <option value="$PROJECT_DIR$/../holtwinters-forecasting-master/holtwinters.py" />
+        <option value="$PROJECT_DIR$/Tool.py" />
+        <option value="$USER_HOME$/Anaconda2/Lib/site-packages/tushare/stock/cons.py" />
+        <option value="$USER_HOME$/Anaconda2/Lib/site-packages/tushare/stock/trading.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$USER_HOME$/Anaconda2/Lib/site-packages/tushare/stock/fundamental.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/ShareData.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SharesData" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SharesData" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\SharesData" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShareData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShareData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/jjx" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/jjx/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="untitled" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.config" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ShareData" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main (2)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ShareData" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.config" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1985134-d7dc-4248-9351-194c3a258d1b" name="Default" comment="" />
+      <created>1499130148179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499130148179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 25m 35s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 25m 42s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 26m 08s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 26m 22s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 26m 53s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 28m 13s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 28m 36s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 28m 50s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 12h 29m 52s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.25 at 16h 08m 25s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="704" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25032595" sideWeight="0.5025" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3267974" sideWeight="0.48875" order="2" side_tool="false" content_ui="tabs" x="315" y="340" width="553" height="114" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23856209" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10823909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31045753" sideWeight="0.4975" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.243125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48239896" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46402878" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python27/Lib/site-packages/sqlalchemy/engine/default.py</url>
+          <line>474</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="233" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="Bfq" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ShareData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="208" column="65" lean-forward="true" selection-start-line="208" selection-start-column="65" selection-end-line="208" selection-end-column="65" />
+          <folding>
+            <element signature="e#24#87#0" expanded="true" />
+            <element signature="e#289#302#0" expanded="false" />
+            <element signature="e#341#580#0" expanded="false" />
+            <element signature="e#625#852#0" expanded="false" />
+            <element signature="e#889#1063#0" expanded="false" />
+            <element signature="e#1099#1166#0" expanded="false" />
+            <element signature="e#1246#1685#0" expanded="false" />
+            <element signature="e#1743#1781#0" expanded="false" />
+            <element signature="e#1839#2150#0" expanded="false" />
+            <element signature="e#2203#2216#0" expanded="false" />
+            <element signature="e#2303#4581#0" expanded="false" />
+            <element signature="e#4629#9094#0" expanded="false" />
+            <element signature="e#5236#5330#0" expanded="false" />
+            <element signature="e#5409#5517#0" expanded="false" />
+            <element signature="e#5595#5700#0" expanded="false" />
+            <element signature="e#5780#5891#0" expanded="false" />
+            <element signature="e#5972#6086#0" expanded="false" />
+            <element signature="e#6166#6277#0" expanded="false" />
+            <element signature="e#6357#6468#0" expanded="false" />
+            <element signature="e#6546#6651#0" expanded="false" />
+            <element signature="e#6731#6842#0" expanded="false" />
+            <element signature="e#6922#7033#0" expanded="false" />
+            <element signature="e#7111#7216#0" expanded="false" />
+            <element signature="e#7293#9014#0" expanded="false" />
+            <element signature="e#9138#9463#0" expanded="false" />
+            <element signature="e#9503#9831#0" expanded="false" />
+            <element signature="e#9875#10284#0" expanded="false" />
+            <element signature="e#10326#11710#0" expanded="false" />
+            <element signature="e#11752#13246#0" expanded="false" />
+            <element signature="e#13286#16033#0" expanded="false" />
+            <element signature="e#16071#19840#0" expanded="false" />
+            <element signature="e#19870#20286#0" expanded="false" />
+            <element signature="e#20348#20842#0" expanded="false" />
+            <element signature="e#20871#22148#0" expanded="false" />
+            <element signature="e#22177#22878#0" expanded="false" />
+            <element signature="e#22908#23092#0" expanded="false" />
+            <element signature="e#23122#23751#0" expanded="false" />
+            <element signature="e#23780#28142#0" expanded="false" />
+            <element signature="e#28172#29438#0" expanded="false" />
+            <element signature="e#29468#30209#0" expanded="false" />
+            <element signature="e#30238#30827#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+            <element signature="e#113#499#0" expanded="false" />
+            <element signature="e#523#1048#0" expanded="false" />
+            <element signature="e#1067#1738#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShareData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="67" column="23" lean-forward="false" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#87#0" expanded="true" />
+            <element signature="e#289#302#0" expanded="false" />
+            <element signature="e#341#580#0" expanded="false" />
+            <element signature="e#625#852#0" expanded="false" />
+            <element signature="e#889#1063#0" expanded="false" />
+            <element signature="e#1099#1166#0" expanded="false" />
+            <element signature="e#1246#1685#0" expanded="false" />
+            <element signature="e#1743#1781#0" expanded="false" />
+            <element signature="e#1839#2150#0" expanded="false" />
+            <element signature="e#2203#2216#0" expanded="false" />
+            <element signature="e#2303#4581#0" expanded="false" />
+            <element signature="e#4629#9094#0" expanded="false" />
+            <element signature="e#5236#5330#0" expanded="false" />
+            <element signature="e#5409#5517#0" expanded="false" />
+            <element signature="e#5595#5700#0" expanded="false" />
+            <element signature="e#5780#5891#0" expanded="false" />
+            <element signature="e#5972#6086#0" expanded="false" />
+            <element signature="e#6166#6277#0" expanded="false" />
+            <element signature="e#6357#6468#0" expanded="false" />
+            <element signature="e#6546#6651#0" expanded="false" />
+            <element signature="e#6731#6842#0" expanded="false" />
+            <element signature="e#6922#7033#0" expanded="false" />
+            <element signature="e#7111#7216#0" expanded="false" />
+            <element signature="e#7293#9014#0" expanded="false" />
+            <element signature="e#9138#9463#0" expanded="false" />
+            <element signature="e#9503#9831#0" expanded="false" />
+            <element signature="e#9875#10284#0" expanded="false" />
+            <element signature="e#10326#11710#0" expanded="false" />
+            <element signature="e#11752#13246#0" expanded="false" />
+            <element signature="e#13286#16033#0" expanded="false" />
+            <element signature="e#16071#19840#0" expanded="false" />
+            <element signature="e#19870#20286#0" expanded="false" />
+            <element signature="e#20348#20842#0" expanded="false" />
+            <element signature="e#20871#22148#0" expanded="false" />
+            <element signature="e#22177#22878#0" expanded="false" />
+            <element signature="e#22908#23092#0" expanded="false" />
+            <element signature="e#23122#23751#0" expanded="false" />
+            <element signature="e#23780#28142#0" expanded="false" />
+            <element signature="e#28172#29438#0" expanded="false" />
+            <element signature="e#29468#30209#0" expanded="false" />
+            <element signature="e#30238#30827#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+            <element signature="e#113#499#0" expanded="false" />
+            <element signature="e#523#1048#0" expanded="false" />
+            <element signature="e#1067#1738#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+            <element signature="e#113#499#0" expanded="false" />
+            <element signature="e#523#1048#0" expanded="false" />
+            <element signature="e#1067#1738#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/pymysql/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../MySQL-python-1.2.5/setup.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.749/setup.py" />
+    <entry file="file://$PROJECT_DIR$/ｔｅｓｔ.py" />
+    <entry file="file://$PROJECT_DIR$/ｔ.py" />
+    <entry file="file://$PROJECT_DIR$/Q.py" />
+    <entry file="file://C:/Python27/Lib/threading.py" />
+    <entry file="file://$PROJECT_DIR$/tt.py" />
+    <entry file="file://$PROJECT_DIR$/1.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/pandas/core/frame.py" />
+    <entry file="file://$PROJECT_DIR$/play.py" />
+    <entry file="file://$PROJECT_DIR$/progress.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/sqlalchemy/engine/interfaces.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/sqlalchemy/engine/default.py" />
+    <entry file="file://$PROJECT_DIR$/002088_sina.csv" />
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled1/11.py" />
+    <entry file="file://$PROJECT_DIR$/ez_setup.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/xwk245776832/Files/ShareData.py" />
+    <entry file="file://$PROJECT_DIR$/code.csv" />
+    <entry file="file://$PROJECT_DIR$/13.csv" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sqlalchemy/engine/base.py" />
+    <entry file="file://$PROJECT_DIR$/../holtwinters-forecasting-master/holtwinters.py" />
+    <entry file="file://$PROJECT_DIR$/../holtwinters-forecasting-master/estimator.py" />
+    <entry file="file://$PROJECT_DIR$/../influx-holtwinters-master/main.py" />
+    <entry file="file://$PROJECT_DIR$/Tool.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/pandas/__init__.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/pandas/core/frame.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/tushare/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/tushare/stock/fundamental.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/tushare/stock/cons.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/tushare/stock/trading.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/jjx/main.py" />
+    <entry file="file://$PROJECT_DIR$/123.csv" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/pyparsing.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/numba/ir.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sqlalchemy/engine/interfaces.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sqlalchemy/engine/default.py" />
+    <entry file="file://$PROJECT_DIR$/600000.csv" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="1022" column="0" lean-forward="false" selection-start-line="1022" selection-start-column="0" selection-end-line="1022" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sqlalchemy/dialects/mysql/oursql.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/192038853/__builtin__.py" />
+    <entry file="file://$PROJECT_DIR$/arrange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="64" column="42" lean-forward="true" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+            <element signature="e#113#499#0" expanded="false" />
+            <element signature="e#523#1048#0" expanded="false" />
+            <element signature="e#1067#1738#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShareData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="379" column="17" lean-forward="true" selection-start-line="379" selection-start-column="17" selection-end-line="379" selection-end-column="17" />
+          <folding>
+            <element signature="e#24#87#0" expanded="true" />
+            <element signature="e#289#302#0" expanded="false" />
+            <element signature="e#341#580#0" expanded="false" />
+            <element signature="e#625#852#0" expanded="false" />
+            <element signature="e#889#1063#0" expanded="false" />
+            <element signature="e#1099#1166#0" expanded="false" />
+            <element signature="e#1246#1685#0" expanded="false" />
+            <element signature="e#1743#1781#0" expanded="false" />
+            <element signature="e#1839#2150#0" expanded="false" />
+            <element signature="e#2203#2216#0" expanded="false" />
+            <element signature="e#2303#4581#0" expanded="false" />
+            <element signature="e#4629#9094#0" expanded="false" />
+            <element signature="e#5236#5330#0" expanded="false" />
+            <element signature="e#5409#5517#0" expanded="false" />
+            <element signature="e#5595#5700#0" expanded="false" />
+            <element signature="e#5780#5891#0" expanded="false" />
+            <element signature="e#5972#6086#0" expanded="false" />
+            <element signature="e#6166#6277#0" expanded="false" />
+            <element signature="e#6357#6468#0" expanded="false" />
+            <element signature="e#6546#6651#0" expanded="false" />
+            <element signature="e#6731#6842#0" expanded="false" />
+            <element signature="e#6922#7033#0" expanded="false" />
+            <element signature="e#7111#7216#0" expanded="false" />
+            <element signature="e#7293#9014#0" expanded="false" />
+            <element signature="e#9138#9463#0" expanded="false" />
+            <element signature="e#9503#9831#0" expanded="false" />
+            <element signature="e#9875#10284#0" expanded="false" />
+            <element signature="e#10326#11710#0" expanded="false" />
+            <element signature="e#11752#13246#0" expanded="false" />
+            <element signature="e#13286#16033#0" expanded="false" />
+            <element signature="e#16071#19840#0" expanded="false" />
+            <element signature="e#19870#20286#0" expanded="false" />
+            <element signature="e#20348#20842#0" expanded="false" />
+            <element signature="e#20871#22148#0" expanded="false" />
+            <element signature="e#22177#22878#0" expanded="false" />
+            <element signature="e#22908#23092#0" expanded="false" />
+            <element signature="e#23122#23751#0" expanded="false" />
+            <element signature="e#23780#28142#0" expanded="false" />
+            <element signature="e#28172#29438#0" expanded="false" />
+            <element signature="e#29468#30209#0" expanded="false" />
+            <element signature="e#30238#30827#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
